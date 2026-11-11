@@ -25,3 +25,4 @@ Este repositório reúne atividades de análise de dados com Python, com foco na
 
 ## Resultado esperado
 O conjunto de códigos permite transformar dados em análise prática, tornando o processo mais estruturado, objetivo e compreensível, além de facilitar a comunicação dos resultados por meio de gráficos e descrições claras.
+
